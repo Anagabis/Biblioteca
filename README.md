@@ -24,7 +24,7 @@ biblioteca/
     <ol>
         <li><strong>Clone o repositório</strong>:
             <pre>
-git clone https://github.com/Anagabis/biblioteca.git
+git clone https://github.com/Anagabis/Biblioteca.git
 cd biblioteca       </pre>
         </li>
         <li><strong>Execute na IDE OU VScode</strong>:

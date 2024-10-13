@@ -1,0 +1,15 @@
+biblioteca/
+│
+├── main.py                  # Ponto de entrada do aplicativo
+│
+├── presentation/            # Camada de Apresentação
+│   ├── cli.py               # Interface de linha de comando
+│   └── gui.py               # Interface gráfica (opcional)
+│
+├── business/                # Camada de Negócio
+│   ├── library_manager.py    # Lógica de negócios para gerenciamento de livros
+│   └── user_manager.py       # Lógica de negócios para gerenciamento de usuários
+│
+└── persistence/             # Camada de Persistência
+    ├── book_repository.py    # Persistência de livros
+    └── user_repository.py     # Persistência de usuários
